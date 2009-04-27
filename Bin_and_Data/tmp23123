@@ -1,0 +1,267 @@
+
+
+
+
+Webby Awards : Event : Webcast : Awards
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	
+	
+		
+		Activism  . 
+. 
+. 
+
+		Arts  . 
+. 
+. 
+
+		Broadband  . 
+. 
+. 
+
+		Commerce  . 
+. 
+. 
+
+		Community  . 
+. 
+. 
+
+		Education  . 
+. 
+. 
+
+		Fashion  . 
+. 
+. 
+
+		Film  . 
+. 
+. 
+
+		Finance  . 
+. 
+. 
+
+		Games  . 
+. 
+. 
+
+		Health  . 
+. 
+. 
+
+		Humor  . 
+. 
+. 
+
+		Kids  . 
+. 
+. 
+
+		Living  . 
+. 
+. 
+
+		Music  . 
+. 
+. 
+
+		News  . 
+. 
+. 
+
+		Personal  . 
+. 
+. 
+
+		Politics & Law  . 
+. 
+. 
+
+		Print & Zines  . 
+. 
+. 
+
+		Radio  . 
+. 
+. 
+
+		Science  . 
+. 
+. 
+
+		Services  . 
+. 
+. 
+
+		Sports  . 
+. 
+. 
+
+		Technical Achievement  . 
+. 
+. 
+
+		Travel  . 
+. 
+. 
+
+		TV  . 
+. 
+. 
+
+		Weird
+	
+		
+	
+	
+	Get the Webby Awards 2000 Planet . 
+  See all the winners in one place - in 3D . 
+
+
+( To download the Webby Awards Planet , you 'll need Internet Explorer 4 or higher and a Windows 95/98 operating system . 
+) 
+	
+	
+
+
+	
+
+
+	
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var _pn= '' PUT+PAGE+NAME+HERE '' ; 
+var _ct= '' Event '' ; 
+var _dt , _sv=10 , _oe=0 , _et=0 , _ss= '' na '' , _sc= '' na '' , _ln= '' na '' , _pl= '' '' , _ce= '' '' , _ja= '' na '' , _rf , _bn , _bv , _x1 , _x2 , _x3 , _ar , _we ; 
+_dt= ( new Date ( ) ) . 
+getHours ( ) ; _bn=navigator . 
+appName ; 
+function _wssn ( _nm ) { if ( _nm . 
+indexOf ( `` NAME '' ) > 0 & & _nm . 
+indexOf ( `` PUT '' ) > =0 & & _nm . 
+indexOf ( `` PAGE '' ) > 0 ) return true ; return false ; } 
+if ( _bn . 
+substring ( 0 , 9 ) == '' Microsoft '' ) { _bn= '' MSIE '' ; } ; 
+_bv=Math . 
+round ( parseFloat ( navigator . 
+appVersion ) *100 ) ; 
+if ( ( _bn== '' MSIE '' ) & & ( parseInt ( _bv ) ==2 ) ) { _bv=301 ; } ; 
+if ( ( _bn== '' MSIE '' ) & & ( _bv > =400 ) ) _ln=navigator . 
+userLanguage ; 
+if ( navigator . 
+appName== '' Netscape '' ) { 
+if ( _bv > 400 ) _ln=navigator . 
+language ; 
+if ( _bv > 300 ) for ( var _i = 0 ; _i 
+_sv=11 ; _ja= ( navigator . 
+javaEnabled ( ) ==true ) ? '' 
+y '' : '' n '' ; 
+
+_sv=12 ; _ss=screen . 
+width+ '' * '' +screen . 
+height ; 
+_sc= ( _bn== '' MSIE '' ) ? 
+screen . 
+colorDepth : screen . 
+pixelDepth ; 
+if ( _sc== '' undefined '' ) { _sc= '' na '' ; } ; 
+_sv=13 ; 
+
+_x2= '' 
+
+
+
+
+
+
+
